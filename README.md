@@ -9,7 +9,7 @@ The files in this repository are the original Newb x MCBE files. Miau was create
 
 ## Downloads
 
-You can download the shader pack from [official page](https://miau-graphics.netlify.app/).
+You can download the Miau shader pack from [official page](https://miau-graphics.netlify.app/).
 
 ## Installation
 
