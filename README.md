@@ -1,6 +1,6 @@
-# Newb X Legacy
+# Miau Graphics
 
-Built to be an absolute beast, **Miau** is a RenderDragon Shader that focuses entirely on ultra realistic stunning aesthetics. Fully compatible with Minecraft Bedrock 1.26+ (Windows/Android/iOS).
+Built to be an absolute beast, **Miau** is a RenderDragon Shader that focuses entirely on ultra realistic stunning aesthetics. Fully compatible with Minecraft Bedrock 1.26+ (Windows/Android/iOS), built off of the Newb Framework.
 
 <br>
 
