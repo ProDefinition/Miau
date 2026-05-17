@@ -1,6 +1,6 @@
 # Newb X Legacy
 
-**Newb X Legacy** is a RenderDragon successor to the legacy GLSL shader, [Newb Shader](https://github.com/devendrn/newb-shader-mcbe). It is an enhanced vanilla shader that focuses on being lightweight and having soft aesthetics. It supports Minecraft Bedrock 1.26+ (Windows/Android/iOS).
+Built to be an absolute beast, **Miau** is a RenderDragon Shader that focuses entirely on ultra realistic stunning aesthetics. Fully compatible with Minecraft Bedrock 1.26+ (Windows/Android/iOS).
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ## Downloads
 
-You can download the shader pack from [release page](https://github.com/devendrn/newb-x-mcbe/releases/latest).
+You can download the shader pack from [official page](https://miau-graphics.netlify.app/).
 
 ## Installation
 
